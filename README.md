@@ -1,4 +1,4 @@
-                                             Practical Assignments in Java for LP II
+I am responding to your assignment                                             Practical Assignments in Java for LP II
                                                          Class BCA 4th A
 For advanced learners in Java, a practical assignment involving command line arguments, control statements, arrays are designed to deepen their understanding and challenge their problem-solving skills. Here's an assignment:
 
